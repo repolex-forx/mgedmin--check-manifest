@@ -1,0 +1,11 @@
+{
+  "org": "mgedmin",
+  "repo": "check-manifest",
+  "versions": [
+    {
+      "commit": "5073ecd69f872358611507c3d09409b1b5df2971",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:15:01.010391+00:00"
+    }
+  ]
+}
