@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mgedmin/check-manifest/commit/5073ecd69f872358611507c3d09409b1b5df2971",
       "git:hexsha": "5073ecd69f872358611507c3d09409b1b5df2971",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mgedmin/check-manifest/commit/e5608a024d3db772c9bc854a4729d0a4eafc99a3",
